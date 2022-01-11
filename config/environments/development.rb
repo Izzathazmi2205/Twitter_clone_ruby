@@ -41,8 +41,8 @@ Rails.application.configure do
   domain: "localhost:3000",
   authentication: :plain,
   enable_starttls_auto: true,
-  user_name: "izzathazmi2205@gmail.com",
-  password: "Nuruddin_25",
+  user_name: "izzat.noreply@gmail.com",
+  password: "izzatnoreply_25",
   openssl_verify_mode: 'none'
   }
   host = 'localhost:3000'
