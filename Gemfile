@@ -50,4 +50,4 @@ end
 # Uncomment the following line if you're running Rails
 # on a native Windows system:
  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
- gem 'wdm', '>= 0.1.0'
+ gem 'wdm', '>= 0.1.0' , platforms: [:mswin]
