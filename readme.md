@@ -92,7 +92,7 @@ Ruby on rails
 - [ ] BETTER SECURITY
 - [ ] Captcha
 - [ ] Use sendgrid instead of google mail
-- [ ] Use cloudinary instead of heroku databse/aws-S3 (amazon s3 needs credit card)
+- [x] Use cloudinary instead of heroku databse/aws-S3 (amazon s3 needs credit card)
 
 
 ## Contributing
