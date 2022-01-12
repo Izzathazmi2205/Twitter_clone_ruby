@@ -36,7 +36,7 @@ Ruby on rails
 * [Javascript]
 * [Laravel]
 * [Bootstrap]
-* [Deployed on heroku] (<p align="right">(<a href="https://not-twitter25.herokuapp.com/">Go to app</a>)</p>)
+* [Deployed on heroku]   <a href="https://not-twitter25.herokuapp.com/">Go to app</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
