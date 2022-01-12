@@ -1,6 +1,6 @@
 ## Acknowledgments
 
-First I would like to say thanks to <a href="https://www.talenox.com/">Talenox</a> for sponsoring this educational project based on the book Ruby on Rails Tutorial: Learn Web Development with Rails, Fourth edition by Michael Hartl that can be purchase at <a href="https://www.railstutorial.org/book">LearnEnough</a> . I would also like to give my thanks to educators in youtube which their video links will be included below:
+First I would like to say thanks to <a href="https://www.talenox.com/">Talenox</a> for sponsoring this educational project based on the book Ruby on Rails Tutorial: Learn Web Development with Rails, Fourth edition by Michael Hartl that can be purchase at <a href="https://www.railstutorial.org/book">LearnEnough</a> . I would also like to give my thanks to educators in youtube , their video links will be included below:
 
 <h3>Ruby and Ruby on rails basic</h3>
 https://youtu.be/fmyvWz5TUWg
