@@ -16,9 +16,7 @@ gem 'webpacker',                  '5.4.0'
 gem 'turbolinks',                 '5.2.1'
 gem 'jbuilder',                   '2.10.0'
 gem 'bootsnap',                   '1.9.3', require: false
-gem 'rexml', '~> 3.2', '>= 3.2.5'
-gem 'shrine', '~> 3.3'
-gem "shrine-cloudinary", "~> 1.1"
+
 
 group :development, :test do
   gem 'sqlite3', '1.4.2'
@@ -46,10 +44,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg',         '1.2.3'
-  #gem 'aws-sdk-s3', '1.87.0', require: false
-  gem 'rails_12factor'
-  gem 'cloudinary'
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
