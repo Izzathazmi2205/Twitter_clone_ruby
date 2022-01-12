@@ -83,7 +83,7 @@ Ruby on rails
 
 
 <!-- ROADMAP -->
-##  What can be improved/learned
+## To improve
 
 - [x] Recreate guides Ui
 - [x] Email activation
