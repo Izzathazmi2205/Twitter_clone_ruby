@@ -17,7 +17,6 @@ gem 'turbolinks',                 '5.2.1'
 gem 'jbuilder',                   '2.10.0'
 gem 'bootsnap',                   '1.9.3', require: false
 gem 'rexml', '~> 3.2', '>= 3.2.5'
-gem 'image_processing', '~> 1.2'
 gem 'shrine', '~> 3.3'
 gem "shrine-cloudinary", "~> 1.1"
 
