@@ -87,6 +87,7 @@ Ruby on rails
 
 - [x] Recreate guides Ui
 - [x] Email activation
+- [ ] Resend email activation
 - [ ] Guard test
 - [ ] Populate db using seed
 - [ ] BETTER SECURITY
